@@ -1,0 +1,11 @@
+Fix the classification algorithm ====> 4/11 : Explore the classification algorithms
+Find & Create contextual similarity algorithm
+Spell check algorithm ===> 3/11
+UI Template finalization ===> 3/11
+Play with thresholds to determine the surety of the answer. If unsure, answer in guess mode ===> 7/11
+Dynamic determination of threshold ===> 7/11
+Training data to be added ====> 3/11 : Refer existing file in master for specific format. 50 per topic
+DJango Intergation ===> 3/11
+Flask integration ===> 4/11
+
+Friday === Internal Demo === 8/11
